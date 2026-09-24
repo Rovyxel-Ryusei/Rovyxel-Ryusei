@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ryusei
 
-<!--
-**Rovyxel-Ryusei/Rovyxel-Ryusei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building software, AI systems, and developer infrastructure.
 
-Here are some ideas to get you started:
+I work on **Rovyxel** and explore how AI agents, reliable automation, developer tooling, and infrastructure can be combined into practical systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- AI agents and agent infrastructure
+- Reliability, verification, and automation
+- Developer tools and open-source software
+- Backend and web systems
+- Linux, containers, and self-hosted infrastructure
+
+## Technologies
+
+`TypeScript` · `Python` · `React` · `FastAPI` · `PostgreSQL` · `Docker` · `Linux`
+
+## Current work
+
+Building and experimenting with systems around **Rovyxel**, while publishing independent open-source projects and developer tools.
+
+---
+
+*Build. Verify. Improve.*
